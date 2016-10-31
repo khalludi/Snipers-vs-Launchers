@@ -1,6 +1,10 @@
-Snipers vs Launchers Mod
 
-[ ] Remove other weapons
-[ ] Add a new map
-[ ] Implement knockback
-[ ] Mod menu maybe?
+Snipers v Launchers
+---------------------
+ - [x] WP_SNIPER
+ - [x] Model
+ - [x] Crosshair
+ - [ ] Launcher
+ - [ ] Remove other weapons
+ - [ ] Create a large map
+ - [ ] Setup lives and round times and kills
